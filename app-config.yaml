@@ -1,9 +1,9 @@
 app:
-  title: Scaffolded Backstage App
+  title: BCP
   baseUrl: http://localhost:3000
 
 organization:
-  name: My Company
+  name: Banco de Credito del Peru
 
 backend:
   # Used for enabling authentication, secret is shared by all backend plugins
